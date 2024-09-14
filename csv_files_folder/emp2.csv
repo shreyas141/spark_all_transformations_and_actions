@@ -1,0 +1,5 @@
+id,fname,lname,dept_id,city,state,salary
+100,shreyas,bugad,10,pune,maharastra,75000
+101,vaibhav,kadam,20,mumbai,maharastra,60000
+102,sandeep,ghanwat,10,pune,maharastra,80000
+103,kamlesh,patil,30,noida,delhi,40000
